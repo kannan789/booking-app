@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/booking-app/static/css/main.6377a589.css",
+    "main.js": "/booking-app/static/js/main.0416ab9c.js",
+    "static/js/787.dca3c7cd.chunk.js": "/booking-app/static/js/787.dca3c7cd.chunk.js",
+    "static/media/darbar.jpg": "/booking-app/static/media/darbar.8d57e8bd4380007a95d1.jpg",
+    "static/media/padmaavat.jpg": "/booking-app/static/media/padmaavat.b9381b45d0e4665c1e09.jpg",
+    "static/media/avatar.jpg": "/booking-app/static/media/avatar.13ff48861bb01ae80ffc.jpg",
+    "static/media/psone.jpeg": "/booking-app/static/media/psone.f6bd0699f6887d493764.jpeg",
+    "static/media/logo.svg": "/booking-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/booking-app/index.html",
+    "main.6377a589.css.map": "/booking-app/static/css/main.6377a589.css.map",
+    "main.0416ab9c.js.map": "/booking-app/static/js/main.0416ab9c.js.map",
+    "787.dca3c7cd.chunk.js.map": "/booking-app/static/js/787.dca3c7cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6377a589.css",
+    "static/js/main.0416ab9c.js"
+  ]
+}
