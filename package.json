@@ -2,7 +2,7 @@
   "name": "booking-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": " git add .",
+  "homepage": "https://kannan789.github.io/booking-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
