@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kannan789/booking-app/static/css/main.89858dbe.css",
-    "main.js": "/kannan789/booking-app/static/js/main.a4cbb739.js",
-    "static/js/787.dca3c7cd.chunk.js": "/kannan789/booking-app/static/js/787.dca3c7cd.chunk.js",
-    "static/media/darbar.jpg": "/kannan789/booking-app/static/media/darbar.8d57e8bd4380007a95d1.jpg",
-    "static/media/padmaavat.jpg": "/kannan789/booking-app/static/media/padmaavat.b9381b45d0e4665c1e09.jpg",
-    "static/media/avatar.jpg": "/kannan789/booking-app/static/media/avatar.13ff48861bb01ae80ffc.jpg",
-    "static/media/psone.jpeg": "/kannan789/booking-app/static/media/psone.f6bd0699f6887d493764.jpeg",
-    "index.html": "/kannan789/booking-app/index.html",
-    "main.89858dbe.css.map": "/kannan789/booking-app/static/css/main.89858dbe.css.map",
-    "main.a4cbb739.js.map": "/kannan789/booking-app/static/js/main.a4cbb739.js.map",
-    "787.dca3c7cd.chunk.js.map": "/kannan789/booking-app/static/js/787.dca3c7cd.chunk.js.map"
+    "main.css": "/booking-app/static/css/main.89858dbe.css",
+    "main.js": "/booking-app/static/js/main.563d5f60.js",
+    "static/js/787.dca3c7cd.chunk.js": "/booking-app/static/js/787.dca3c7cd.chunk.js",
+    "static/media/darbar.jpg": "/booking-app/static/media/darbar.8d57e8bd4380007a95d1.jpg",
+    "static/media/padmaavat.jpg": "/booking-app/static/media/padmaavat.b9381b45d0e4665c1e09.jpg",
+    "static/media/avatar.jpg": "/booking-app/static/media/avatar.13ff48861bb01ae80ffc.jpg",
+    "static/media/psone.jpeg": "/booking-app/static/media/psone.f6bd0699f6887d493764.jpeg",
+    "index.html": "/booking-app/index.html",
+    "main.89858dbe.css.map": "/booking-app/static/css/main.89858dbe.css.map",
+    "main.563d5f60.js.map": "/booking-app/static/js/main.563d5f60.js.map",
+    "787.dca3c7cd.chunk.js.map": "/booking-app/static/js/787.dca3c7cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89858dbe.css",
-    "static/js/main.a4cbb739.js"
+    "static/js/main.563d5f60.js"
   ]
 }
