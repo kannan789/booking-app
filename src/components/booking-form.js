@@ -76,7 +76,7 @@ return (
         
     </form>
     </div>
-        <button id="btn"><a href="http://localhost:3000/confirm">Confirm booking</a></button>
+        <button id="btn"><a href="https://kannan789.github.io/confirm">Confirm booking</a></button>
       {/* <div>{isConf && <Confirmation />}</div> */} 
 
 </>
