@@ -52,7 +52,7 @@ return (
   <div class="grid-item"  onClick={()=>{blockSeats(23)}}>24</div>
 </div>
 </div>
-<button><a href="http://localhost:3000/book-form">Book Now</a></button>
+<button><a href="https://kannan789.github.io/book-form">Book Now</a></button>
 <Router>
   <Switch>
     <Route path="/book-form">
